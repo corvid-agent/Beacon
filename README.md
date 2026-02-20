@@ -2,6 +2,8 @@
 
 System health beacon for macOS menu bar. Shows a colored status indicator based on system health with a dropdown displaying CPU, memory, disk, network, battery, and uptime metrics.
 
+![Beacon Screenshot](screenshot.png)
+
 ## Status Levels
 
 - **Green** — All systems normal
